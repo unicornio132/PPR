@@ -6,4 +6,3 @@ Isso aqui eh apenas um README para explicar o que eh o GITHUB na aula de Program
 Exemplo de Codigo:
 
 #!/bin/bash
-echo "Ola Mundo"
